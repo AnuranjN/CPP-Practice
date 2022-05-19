@@ -5,7 +5,7 @@ using std::cout;
     
 int main()
 {
-	int i,n,sum=0;
+	int i,n,sum=0;                                      //Dclaring variables and taking input from user
 	cout<<"Enter the number";
 	cin>>n;
 	for(i=1;i<=n;i++){
