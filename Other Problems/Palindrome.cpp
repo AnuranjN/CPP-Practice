@@ -3,7 +3,7 @@ using std::cout;
 using std::cin;
 
 int main(){                                  
-    int n,r,rev=0;
+    int n,r,rev=0;                                //Declaring the variables
     cin>>n;
     int m=n;
     while(n>0){                             
