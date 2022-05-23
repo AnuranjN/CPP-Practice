@@ -4,7 +4,7 @@
 
 int main(){
     int n;
-    std::cout<<"Enter number";
+    std::cout<<"Enter number";                       //Taking input from user
     std::cin>>n;
     
     for(int i=0; i<n; i++){                          //Here i is row and j is column
