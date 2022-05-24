@@ -1,4 +1,4 @@
-
+//Program to print right angled triangle
 #include<iostream>
 using std::cin;
 using std::cout;
