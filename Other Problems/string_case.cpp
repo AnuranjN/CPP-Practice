@@ -1,6 +1,6 @@
 //Program to change cases of a letter(UPPER TO LOWER)
 #include<iostream>
-#include<string>
+
 
 int main(){                                        //taking string input
     std::string str;
