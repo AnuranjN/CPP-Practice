@@ -6,7 +6,7 @@ using std::cin;
 
 int main()
 {
-    int year;                       //Declaring variable
+    int year;                       //Declaring variable year
  
     cout << "Enter a year: ";
     cin >> year;
